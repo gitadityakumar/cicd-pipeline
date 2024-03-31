@@ -3,8 +3,7 @@
 ```jsx
 git clone https://github.com/100xdevs-cohort-2/week-17-final-code
 ```
-# CICD  pipeline ;lasjfl;asjfl;kjasdlfj
-- npm install
+# CICD  pipeline 
 - Run postgres either locally or on the cloud (neon.tech)
 
 ```jsx
